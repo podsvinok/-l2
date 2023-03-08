@@ -1,0 +1,10 @@
+D:\ewq321\qwe12\qwe12\bin\Debug\qwe12.exe.config
+D:\ewq321\qwe12\qwe12\bin\Debug\qwe12.exe
+D:\ewq321\qwe12\qwe12\bin\Debug\qwe12.pdb
+D:\ewq321\qwe12\qwe12\obj\Debug\qwe12.csproj.AssemblyReference.cache
+D:\ewq321\qwe12\qwe12\obj\Debug\qwe12.csproj.SuggestedBindingRedirects.cache
+D:\ewq321\qwe12\qwe12\obj\Debug\qwe12.Properties.Resources.resources
+D:\ewq321\qwe12\qwe12\obj\Debug\qwe12.csproj.GenerateResource.cache
+D:\ewq321\qwe12\qwe12\obj\Debug\qwe12.csproj.CoreCompileInputs.cache
+D:\ewq321\qwe12\qwe12\obj\Debug\qwe12.exe
+D:\ewq321\qwe12\qwe12\obj\Debug\qwe12.pdb
